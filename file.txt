@@ -1,0 +1,7 @@
+client access token
+DBtCD_5Y7N1Ds7D7QEVTeQOGQ-T-jxop8scKTvZhqfTKCWwaTnGtikWHW1wtrseO
+
+client secret
+Mw3StwO4qNaRhpwyd0CTr9aNb8I0BogL4uafwKL8csww7w7g7hlh8llnq36m8pHioAKpVyltYcgL706oGP8iBg
+
+https://genius-song-lyrics1.p.rapidapi.com/search/?q=<REQUIRED>&per_page=10&page=1&apiKey=c425aafb44mshdd077788820edfap1368e4jsnb1c6c2f3ee98
